@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='HelloShopply',
-    version='0.0.2',
+    version='0.0.3',
     author='Shopply',
     author_email='contactus@shopply.com',
     packages=['helloshopply.code', 'helloshopply.test'],

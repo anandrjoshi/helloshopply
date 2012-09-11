@@ -12,5 +12,4 @@ class Test_Hello_ES:
 		assert self.Hello_Es_Object.__class__.__name__ == 'Model'
 	
 	def test_get_message(self):
-		self.Hello_Es_Object.get_message()
-		assert self.Hello_Es_Object.get_message() == False
+		assert self.Hello_Es_Object.get_message() == True

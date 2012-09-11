@@ -8,3 +8,4 @@ helloshopply\code\hello_es.py
 helloshopply\code\hello_shopply.py
 helloshopply\code\server.py
 helloshopply\test\__init__.py
+helloshopply\test\test_hello_es.py
