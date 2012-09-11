@@ -14,5 +14,6 @@ setup(
     install_requires=[
         "pyes >= 0.19.1",
         "tornado >= 2.4",
+		"nose >= 1.2",
     ],
 )
